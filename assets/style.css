@@ -7,11 +7,11 @@ html {
 }
 
 body {
-    background-color: #021A26;
+    background-color: #FFFFFF;
 }
 
 .wtxt {
-    color: white;
+    color: black;
 }
 
 .headtxt {
@@ -28,7 +28,7 @@ a:visited {color:#4DBD94;
 text-decoration: underline;}
 a:hover {color:#4DBD94;
 text-decoration: none;}
-a:active {color:#000000;
+a:active {color:#666666;
 text-decoration: underline;}
 
 .grtxt {
