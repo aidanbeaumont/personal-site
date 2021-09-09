@@ -1,5 +1,5 @@
 html {
-    font-family: sans-serif;
+    font-family: "Lato", "Nunito+Sans", sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     padding-bottom: 70px;
@@ -8,6 +8,7 @@ html {
 
 body {
     background-color: #021A26;
+    font-family: "Lato", "Nunito+Sans";
 }
 
 
