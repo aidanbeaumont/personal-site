@@ -11,6 +11,9 @@ body {
     font-family: "Lato", "Nunito+Sans";
 }
 
+.buttoncol {
+    color: white;
+}
 
 .wtxt {
     color: white;
@@ -24,14 +27,16 @@ body {
     color: #4DBD94;
 }
 
-a:link {color:#4DBD94;
-text-decoration: underline;}
-a:visited {color:#4DBD94;
-text-decoration: underline;}
-a:hover {color:#4DBD94;
-text-decoration: none;}
-a:active {color:#666666;
-text-decoration: underline;}
+a.collink:link {color:#4DBD94;
+    text-decoration: underline;}
+    a.collink:visited {color:#4DBD94;
+    text-decoration: underline;}
+    a.collink:hover {color:#4DBD94;
+    text-decoration: none;}
+    a.collink:active {color:#666666;
+    text-decoration: underline;}
+
+
 
 .grtxt {
     color: #4DBD94;
