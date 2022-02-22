@@ -1,5 +1,5 @@
 html {
-    font-family: sans-serif;
+    font-family: "Lato", "Nunito+Sans", sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     padding-bottom: 70px;
@@ -8,6 +8,11 @@ html {
 
 body {
     background-color: #021A26;
+    font-family: "Lato", "Nunito+Sans";
+}
+
+.buttoncol {
+    color: white;
 }
 
 
@@ -23,6 +28,18 @@ body {
     color: #4DBD94;
 }
 
+Coffee
+a.collink:link {color:#4DBD94;
+    text-decoration: underline;}
+    a.collink:visited {color:#4DBD94;
+    text-decoration: underline;}
+    a.collink:hover {color:#4DBD94;
+    text-decoration: none;}
+    a.collink:active {color:#666666;
+    text-decoration: underline;}
+
+
+
 a:link {color:#4DBD94;
 text-decoration: underline;}
 a:visited {color:#4DBD94;
@@ -31,6 +48,7 @@ a:hover {color:#4DBD94;
 text-decoration: none;}
 a:active {color:#666666;
 text-decoration: underline;}
+master
 
 .grtxt {
     color: #4DBD94;
