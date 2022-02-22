@@ -15,6 +15,7 @@ body {
     color: white;
 }
 
+
 .wtxt {
     color: white;
 }
@@ -27,6 +28,7 @@ body {
     color: #4DBD94;
 }
 
+Coffee
 a.collink:link {color:#4DBD94;
     text-decoration: underline;}
     a.collink:visited {color:#4DBD94;
@@ -37,6 +39,16 @@ a.collink:link {color:#4DBD94;
     text-decoration: underline;}
 
 
+
+a:link {color:#4DBD94;
+text-decoration: underline;}
+a:visited {color:#4DBD94;
+text-decoration: underline;}
+a:hover {color:#4DBD94;
+text-decoration: none;}
+a:active {color:#666666;
+text-decoration: underline;}
+master
 
 .grtxt {
     color: #4DBD94;
