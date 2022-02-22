@@ -1,5 +1,5 @@
 html {
-    font-family: "Lato", "Nunito+Sans", sans-serif;
+    font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     padding-bottom: 70px;
@@ -8,7 +8,7 @@ html {
 
 body {
     background-color: #021A26;
-    font-family: "Lato", "Nunito+Sans";
+    font-family: sans-serif;
 }
 
 .buttoncol {
@@ -41,9 +41,9 @@ a.collink:link {color:#4DBD94;
 
 
 a:link {color:#4DBD94;
-text-decoration: underline;}
+text-decoration: none;}
 a:visited {color:#4DBD94;
-text-decoration: underline;}
+text-decoration: none;}
 a:hover {color:#4DBD94;
 text-decoration: none;}
 a:active {color:#666666;
