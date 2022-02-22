@@ -22,21 +22,12 @@ body {
 
 .headtxt {
     color: #4DBD94;
+    font-family: "Playfair Display", sans-serif;
 }
 
 .sociallink {
     color: #4DBD94;
 }
-
-Coffee
-a.collink:link {color:#4DBD94;
-    text-decoration: underline;}
-    a.collink:visited {color:#4DBD94;
-    text-decoration: underline;}
-    a.collink:hover {color:#4DBD94;
-    text-decoration: none;}
-    a.collink:active {color:#666666;
-    text-decoration: underline;}
 
 
 
@@ -47,8 +38,7 @@ text-decoration: none;}
 a:hover {color:#4DBD94;
 text-decoration: none;}
 a:active {color:#666666;
-text-decoration: underline;}
-master
+text-decoration: underline;}    
 
 .grtxt {
     color: #4DBD94;
