@@ -11,6 +11,23 @@ body {
     font-family: sans-serif;
 }
 
+a:link {
+    color:#4DBD94;
+    text-decoration: none;
+}
+a:visited {
+    color:#4DBD94;
+    text-decoration: none;
+}
+a:hover {
+    color:#4DBD94;
+    text-decoration: none;
+}
+a:active {
+    color:#666666;
+    text-decoration: underline;
+} 
+
 .buttoncol {
     color: white;
 }
@@ -28,17 +45,6 @@ body {
 .sociallink {
     color: #4DBD94;
 }
-
-
-
-a:link {color:#4DBD94;
-text-decoration: none;}
-a:visited {color:#4DBD94;
-text-decoration: none;}
-a:hover {color:#4DBD94;
-text-decoration: none;}
-a:active {color:#666666;
-text-decoration: underline;}    
 
 .grtxt {
     color: #4DBD94;
@@ -60,8 +66,6 @@ vertical-align: center;
     display: table-cell;
     vertical-align: middle;
 }
-
-
 
 .proj {
     padding-top:2em;
