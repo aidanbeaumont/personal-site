@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
+baseurl: "type-theme"
 url: "http://aidanbeaumont.com"
 
 # THEME-SPECIFIC CONFIGURATION
