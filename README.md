@@ -1,3 +1,3 @@
-# aidan-beaumont.github.io
+# personal-site
 
-Portfolio/CV coming soon!
+Private repository for my [personal website](https://aidanbeaumont.com)
