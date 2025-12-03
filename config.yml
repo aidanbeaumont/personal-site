@@ -1,0 +1,99 @@
+baseURL: https://aidanbeaumont.com
+title: Aidan Beaumont
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+# menu:
+#     main:
+#         - name: About
+#           url: about/
+#           weight: 1
+#         - name: All Posts
+#           url: archive/
+#           weight: 2
+
+params:
+    description: "Aidan Beaumont is a medical student and aspiring academic clinician"
+    author: Aidan Beaumont
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: false
+    TocOpen: true
+    ShowWordCount: true
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Aidan Beaumont
+          subtitle: "👋 Hi, I'm Aidan, a Final-Year Medical Student and aspiring academic clinician based in London. I am building a portfolio, and dumping ground for thoughts."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          # buttons:
+          #   - name: Papers
+          #     url: papers/
+          #   - name: Data
+          #     url: data/
+          #   - name: Books
+          #     url: books/
+          #   - name: Courses
+          #     url: courses/
+          #   - name: Tags
+          #     url: tags/
+          #   - name: Archive
+          #     url: archive/
+          #   - name: Blog
+          #     url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: Linkedin
+          url: http://www.linkedin.com/in/aidanbeaumont
+        - name: cv
+          url: https://orcid.org/0000-0003-4151-8386
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=JDPGtt4AAAAJ
+        - name: GitHub
+          url: https://github.com/aidanbeaumont
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Aidan Beaumont"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
