@@ -10,17 +10,17 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: About
-          url: about/
-          weight: 1
-        - name: All Posts
-          url: archive/
-          weight: 2
+# menu:
+#     main:
+#         - name: About
+#           url: about/
+#           weight: 1
+#         - name: All Posts
+#           url: archive/
+#           weight: 2
 
 params:
-    description: "Aidan Beaumont is a medical student and  aspiring academic clinician"
+    description: "Aidan Beaumont is a medical student and aspiring academic clinician"
     author: Aidan Beaumont
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
