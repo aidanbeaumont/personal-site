@@ -1,3 +1,3 @@
 # personal-site
 
-Private repository for my [personal website](https://aidanbeaumont.com)
+Public repository for my personal hugo website built using [Minimalist Hugo Template for Academic Websites](https://github.com/pmichaillat/hugo-website)
