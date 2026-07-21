@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Aidan Beaumont
-          subtitle: "👋 Hi, I'm Aidan, a Final-Year Medical Student and aspiring academic clinician based in London. I am building a portfolio, and dumping ground for thoughts."
+          subtitle: "👋 Hi, I'm Aidan, a Foundation Doctor and aspiring academic clinician based in London. I am building a portfolio, and dumping ground for thoughts."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
